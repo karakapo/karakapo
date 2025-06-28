@@ -6,7 +6,7 @@
 - 🧠 LLMs, RAG pipelines  
 - 🔗 LangChain, LangGraph, and AI Agents  
 - 🏗️ Building AI-driven architectures  
-- 🚀 Developing AI-powered SaaS & mobile products as a solo developer  
+- 🚀 Developing AI-powered SaaS as a solo developer  
 
 
 ## 👻 About Me 
