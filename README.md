@@ -17,8 +17,7 @@ current_field = "Data & AI"
 
 education = {
     "University": "Hacettepe University",
-    "Department": "Statistics",
-    "GPA": 3.51
+    "Department": "Statistics"
 }
 
 fields_of_interests = {  
